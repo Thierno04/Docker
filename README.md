@@ -23,11 +23,11 @@
 
   ## Components of Docker ?
   #### The Core of the Docker consists of
-  1- Docker Engine
-  2- Docker Conatiner
-  3- Docker images
-  4- Docker CLI
-  5- Docker daemon
+  ###### - Docker Engine
+  ###### - Docker Conatiner
+  ###### - Docker images
+  ###### - Docker CLI
+  ###### - Docker daemon
   
   * The Docker engine is a part of Docker which create and run the Docker containers.
   * The Docker container is a live running instance of a docker image.
