@@ -33,9 +33,12 @@
   * The Docker container is a live running instance of a docker image.
   * The Docker daemon process is used to control and manage the containers.
 
-   Docker Server: Pulling images, managing conatiners (Container Runtime, Volumes, Networks, Images)
-   ------------
-   Docker API: Interacting with docker components
-   ----------
-   Docker CLI: Command line interface for executing docker commands.
+   ###### Docker Server:
+   Pulling images, managing conatiners (Container Runtime, Volumes, Networks, Images)
+
+   ###### Docker API: 
+   Interacting with docker components
+
+   ###### Docker CLI:
+   Command line interface for executing docker commands.
    ----------
