@@ -13,3 +13,29 @@
   
   ### After Containers:
   Configurations, Scripts, App1, Dependancies
+  
+  # What is Docker ?
+  * Docker is an open source platform for building, deploying, and managing containerized applications.
+  * Docker is a software platform that allows you to build, test, and deploy applications quickly.
+  * Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools,       code and runtime.
+  * Docker containers can run anywhere, on-premises in the customer datacenter, in an external service provider or in the cloud.
+  * 
+
+  ## Components of Docker ?
+  #### The Core of the Docker consists of
+  1- Docker Engine
+  2- Docker Conatiner
+  3- Docker images
+  4- Docker CLI
+  5- Docker daemon
+  
+  * The Docker engine is a part of Docker which create and run the Docker containers.
+  * The Docker container is a live running instance of a docker image.
+  * The Docker daemon process is used to control and manage the containers.
+
+   Docker Server: Pulling images, managing conatiners (Container Runtime, Volumes, Networks, Images)
+   ------------
+   Docker API: Interacting with docker components
+   ----------
+   Docker CLI: Command line interface for executing docker commands.
+   ----------
