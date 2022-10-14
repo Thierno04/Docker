@@ -34,7 +34,13 @@
   * The Docker daemon process is used to control and manage the containers.
 
    ###### Docker Server:
-   Pulling images, managing conatiners (Container Runtime, Volumes, Networks, Images)
+   Pulling images, managing conatiners (Container Runtime, Volumes, Networks, Images).
+   
+   # What is Docker Swarm ?
+
+* Cluster of Docker Engines is called a Docker swarm.
+* In a microservice architecture, where you need to work on different project components on different machines and a master slave architecture where the master nodes control the slave nodes.
+
 
    ###### Docker API: 
    Interacting with docker components
