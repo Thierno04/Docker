@@ -35,16 +35,17 @@
 
    ###### Docker Server:
    Pulling images, managing conatiners (Container Runtime, Volumes, Networks, Images).
-   
-   # What is Docker Swarm ?
-
-* Cluster of Docker Engines is called a Docker swarm.
-* In a microservice architecture, where you need to work on different project components on different machines and a master slave architecture where the master nodes control the slave nodes.
-
 
    ###### Docker API: 
    Interacting with docker components
 
    ###### Docker CLI:
    Command line interface for executing docker commands.
+   
+    
+   # What is Docker Swarm ?
+
+* Cluster of Docker Engines is called a Docker swarm.
+* In a microservice architecture, where you need to work on different project components on different machines and a master slave architecture where the master nodes control the slave nodes.
+
 
