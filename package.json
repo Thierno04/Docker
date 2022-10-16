@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Thierno04/Docker/issues"
   },
-  "homepage": "https://github.com/Thierno04/Docker#readme"
+  "homepage": "https://github.com/Thierno04/Docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
