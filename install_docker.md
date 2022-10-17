@@ -1,6 +1,5 @@
 ## Docker install
 
-Please refer to the official documentation for installation [guide](https://docs.docker.com/engine/install/)
 
 ## Docker Containers
 ```bash
@@ -91,5 +90,3 @@ docker-compose down
 
 
 
-## Other resources
-[More Docker cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/docker.sh)
